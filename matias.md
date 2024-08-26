@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Matías and I'm a Linux user, from Chile</h2>
+<h2 align="left">Hi 👋! My name is Mati and I'm a Python beginner, from Debian.</h2>
 
 ###
 
@@ -44,11 +44,10 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/mati-sly/mati-sly/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/mati-sly/mati-sly/main/profile/snake.svg" alt="Snake animation" />
 
 ###
 
-<h3 align="left">Most Used Languages:</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-Initial-blue" alt="Python level" />
-</p>
+<h3 align="left">Biography</h3>
+
+<p>My journey with Linux began about four years ago when I started using the terminal on a Chromebook. Since then, I’ve explored many distributions, from Fedora to Arch, and KDE Neon. Currently, I’m using Linux Mint with Debian, but my experience spans across numerous distros. My fascination with Linux and open-source software has been a significant part of my learning journey, and I continue to enjoy discovering new aspects of this vibrant ecosystem.</p>
