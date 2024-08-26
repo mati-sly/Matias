@@ -52,3 +52,4 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/mati-sly/mati-sly/output/snake.svg" alt="Snake animation" />
+
