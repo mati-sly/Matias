@@ -29,15 +29,6 @@
 
 ###
 
-## 🏆 Certificaciones
-
-- **[Introducción a la Ciberseguridad](certificados/Introduction_to_Cybersecurity_Badge20240513-8-z7oha1.pdf)** - Introducción a la Ciberseguridad.
-- **[NDG Linux Essentials](certificados/MATIAS%20MAURICIOVEGA%20RODRIGUEZ-NDG%20Linux%20Essent-certificate%20with%20you.pdf)** - Fundamentos de Linux.
-- **[Fundamentos de Sistemas Operativos](certificados/Operating_Systems_Basics_Badge20240513-8-6ivvue.pdf)** - Fundamentos de Sistemas Operativos.
-- **[Certificación INACAP](certificados/Matias-Mauricio-Vega-Rodriguezmatias-vega29-inacapmail-cl-63e75df7-5864-4ed3-8f49-a756bfecff2b.pdf)** - Certificación de INACAP.
-
-###
-
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=1f1f1f&logoColor=ff0000&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=1f1f1f&logoColor=e4405f&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -52,4 +43,3 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/mati-sly/mati-sly/output/snake.svg" alt="Snake animation" />
-
